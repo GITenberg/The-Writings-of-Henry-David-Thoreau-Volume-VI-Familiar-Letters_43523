@@ -1,0 +1,38 @@
+_repo: The-Writings-of-Henry-David-Thoreau-Volume-VI-Familiar-Letters_43523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+  editor:
+    agent_name: Sanborn, F. B. (Franklin Benjamin)
+    alias: Sanborn, Franklin Benjamin
+    birthdate: 1831
+    deathdate: 1917
+    gutenberg_agent_id: '42270'
+    url: http://www.gutenberg.org/2009/agents/42270
+description: ''
+gutenberg_issued: '2013-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naturalists -- United States -- Correspondence'
+- !lcsh 'Thoreau, Henry David, 1817-1862 -- Correspondence'
+- !lcc 'PS'
+- !lcsh 'Intellectuals -- United States -- Correspondence'
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+title: "Familiar Letters\r\nThe Writings of Henry David Thoreau, Volume 06 (of 20)"
+url: http://www.gutenberg.org/ebooks/43523
